@@ -1,0 +1,211 @@
+Data;Vendedor;Produto;Região;Quantidade;Valor Unitário
+02/09/2026;Felipe Nunes;SSD 1TB;Centro-Oeste;2;499,90
+13/09/2026;Diego Rocha;SSD 1TB;Sudeste;1;499,90
+11/09/2026;Diego Rocha;Suporte para Notebook;Sudeste;2;159,90
+01/09/2026;Diego Rocha;Hub USB-C;Sul;1;219,90
+11/09/2026;Felipe Nunes;Headset USB;Centro-Oeste;2;260,10
+28/09/2026;Diego Rocha;Webcam Full HD;Nordeste;2;314,10
+28/09/2026;Ana Lima;Hub USB-C;Norte;1;197,91
+22/09/2026;Bruno Costa;Impressora Laser;Sudeste;1;1.299,00
+25/09/2026;Diego Rocha;Monitor 27 4K;Sul;2;2.199,90
+02/09/2026;Ana Lima;Notebook Pro 14;Nordeste;1;5.899,00
+05/09/2026;Elisa Prado;SSD 1TB;Centro-Oeste;2;499,90
+06/09/2026;Ana Lima;Teclado Mecânico;Norte;5;449,90
+22/09/2026;Diego Rocha;Suporte para Notebook;Norte;1;159,90
+21/09/2026;Diego Rocha;Hub USB-C;Nordeste;2;219,90
+10/09/2026;Bruno Costa;Hub USB-C;Sudeste;1;197,91
+19/09/2026;Felipe Nunes;Webcam Full HD;Centro-Oeste;2;349,00
+28/09/2026;Bruno Costa;Hub USB-C;Centro-Oeste;3;219,90
+08/09/2026;Elisa Prado;Monitor 27 4K;Nordeste;2;2.089,91
+10/09/2026;Felipe Nunes;Roteador Wi-Fi 6;Centro-Oeste;1;699,00
+28/09/2026;Elisa Prado;Suporte para Notebook;Centro-Oeste;3;159,90
+25/09/2026;Elisa Prado;Headset USB;Nordeste;1;289,00
+20/09/2026;Felipe Nunes;Mouse Sem Fio;Sul;2;129,90
+21/09/2026;Carla Mendes;Impressora Laser;Centro-Oeste;1;1.299,00
+24/09/2026;Ana Lima;Webcam Full HD;Nordeste;1;349,00
+06/09/2026;Bruno Costa;SSD 1TB;Norte;5;499,90
+17/09/2026;Carla Mendes;Webcam Full HD;Sul;1;314,10
+26/09/2026;Felipe Nunes;Hub USB-C;Nordeste;3;219,90
+03/09/2026;Bruno Costa;Hub USB-C;Centro-Oeste;10;219,90
+12/09/2026;Diego Rocha;Cadeira Ergonômica;Sudeste;1;1.599,00
+15/09/2026;Felipe Nunes;Monitor 27 4K;Nordeste;2;2.199,90
+12/09/2026;Felipe Nunes;Impressora Laser;Sul;1;1.299,00
+18/09/2026;Elisa Prado;Suporte para Notebook;Sul;2;159,90
+27/09/2026;Felipe Nunes;Impressora Laser;Nordeste;2;1.234,05
+05/09/2026;Ana Lima;Monitor 27 4K;Nordeste;10;2.199,90
+04/09/2026;Elisa Prado;Monitor 27 4K;Sul;1;2.199,90
+22/09/2026;Diego Rocha;Webcam Full HD;Norte;2;314,10
+14/09/2026;Diego Rocha;Teclado Mecânico;Norte;1;449,90
+02/09/2026;Bruno Costa;Headset USB;Centro-Oeste;1;289,00
+28/09/2026;Ana Lima;Mouse Sem Fio;Nordeste;2;129,90
+12/09/2026;Diego Rocha;Impressora Laser;Nordeste;1;1.299,00
+28/09/2026;Ana Lima;Monitor 27 4K;Sul;2;2.089,91
+01/09/2026;Carla Mendes;Suporte para Notebook;Sul;10;159,90
+07/09/2026;Elisa Prado;Suporte para Notebook;Sul;2;159,90
+11/09/2026;Elisa Prado;Mouse Sem Fio;Sudeste;1;129,90
+05/09/2026;Carla Mendes;Teclado Mecânico;Sul;1;404,91
+05/09/2026;Carla Mendes;Notebook Pro 14;Sul;2;5.899,00
+06/09/2026;Ana Lima;Notebook Pro 14;Sul;2;5.899,00
+04/09/2026;Diego Rocha;Cadeira Ergonômica;Centro-Oeste;3;1.599,00
+19/09/2026;Diego Rocha;Cadeira Ergonômica;Norte;1;1.599,00
+02/09/2026;Carla Mendes;Suporte para Notebook;Centro-Oeste;2;143,91
+02/09/2026;Diego Rocha;Notebook Pro 14;Centro-Oeste;2;5.604,05
+23/09/2026;Ana Lima;Hub USB-C;Sudeste;1;208,91
+03/09/2026;Carla Mendes;Teclado Mecânico;Norte;2;449,90
+23/09/2026;Diego Rocha;Cadeira Ergonômica;Norte;2;1.599,00
+17/09/2026;Diego Rocha;Hub USB-C;Sudeste;3;197,91
+28/09/2026;Felipe Nunes;Monitor 27 4K;Sul;1;1.979,91
+14/09/2026;Diego Rocha;Mouse Sem Fio;Centro-Oeste;1;129,90
+11/09/2026;Carla Mendes;Monitor 27 4K;Nordeste;1;2.089,91
+22/09/2026;Ana Lima;Teclado Mecânico;Sudeste;3;427,40
+14/09/2026;Felipe Nunes;Monitor 27 4K;Nordeste;3;2.199,90
+02/09/2026;Elisa Prado;Cadeira Ergonômica;Norte;1;1.439,10
+14/09/2026;Felipe Nunes;Monitor 27 4K;Centro-Oeste;3;2.199,90
+02/09/2026;Elisa Prado;Roteador Wi-Fi 6;Nordeste;1;699,00
+17/09/2026;Bruno Costa;Suporte para Notebook;Centro-Oeste;1;159,90
+12/09/2026;Carla Mendes;Monitor 27 4K;Sudeste;3;1.979,91
+08/09/2026;Elisa Prado;Suporte para Notebook;Norte;2;151,91
+18/09/2026;Elisa Prado;Impressora Laser;Nordeste;1;1.299,00
+23/09/2026;Carla Mendes;Headset USB;Nordeste;1;289,00
+19/09/2026;Ana Lima;Teclado Mecânico;Sul;2;427,40
+03/09/2026;Bruno Costa;Notebook Pro 14;Centro-Oeste;1;5.309,10
+06/09/2026;Carla Mendes;Webcam Full HD;Nordeste;3;349,00
+20/09/2026;Ana Lima;Suporte para Notebook;Sul;1;159,90
+02/09/2026;Carla Mendes;Suporte para Notebook;Centro-Oeste;2;159,90
+20/09/2026;Diego Rocha;Hub USB-C;Nordeste;1;208,91
+04/09/2026;Diego Rocha;Cadeira Ergonômica;Sudeste;1;1.599,00
+19/09/2026;Elisa Prado;Impressora Laser;Nordeste;1;1.234,05
+20/09/2026;Ana Lima;SSD 1TB;Sul;1;499,90
+25/09/2026;Carla Mendes;Mouse Sem Fio;Nordeste;1;129,90
+16/09/2026;Bruno Costa;Notebook Pro 14;Sul;1;5.604,05
+08/09/2026;Elisa Prado;Roteador Wi-Fi 6;Nordeste;1;629,10
+02/09/2026;Ana Lima;Roteador Wi-Fi 6;Centro-Oeste;5;664,05
+19/09/2026;Elisa Prado;Webcam Full HD;Centro-Oeste;2;331,55
+10/09/2026;Diego Rocha;SSD 1TB;Sudeste;10;499,90
+26/09/2026;Diego Rocha;Teclado Mecânico;Nordeste;1;404,91
+08/09/2026;Elisa Prado;Monitor 27 4K;Centro-Oeste;2;2.089,91
+28/09/2026;Felipe Nunes;SSD 1TB;Nordeste;1;499,90
+03/09/2026;Felipe Nunes;Teclado Mecânico;Sudeste;2;404,91
+25/09/2026;Carla Mendes;Mouse Sem Fio;Sul;1;129,90
+09/09/2026;Bruno Costa;Teclado Mecânico;Norte;1;449,90
+03/09/2026;Felipe Nunes;Impressora Laser;Centro-Oeste;1;1.299,00
+25/09/2026;Diego Rocha;Suporte para Notebook;Norte;2;143,91
+11/09/2026;Bruno Costa;Suporte para Notebook;Centro-Oeste;1;159,90
+21/09/2026;Carla Mendes;Hub USB-C;Norte;1;219,90
+03/09/2026;Diego Rocha;Cadeira Ergonômica;Centro-Oeste;1;1.599,00
+27/09/2026;Ana Lima;Webcam Full HD;Sudeste;2;349,00
+13/09/2026;Elisa Prado;Cadeira Ergonômica;Norte;10;1.519,05
+02/09/2026;Elisa Prado;Roteador Wi-Fi 6;Sul;1;664,05
+17/09/2026;Ana Lima;Hub USB-C;Centro-Oeste;1;219,90
+23/09/2026;Elisa Prado;Webcam Full HD;Sul;1;349,00
+15/09/2026;Elisa Prado;Roteador Wi-Fi 6;Norte;2;664,05
+12/09/2026;Diego Rocha;Webcam Full HD;Centro-Oeste;3;349,00
+20/09/2026;Felipe Nunes;Impressora Laser;Nordeste;1;1.299,00
+18/09/2026;Carla Mendes;Monitor 27 4K;Nordeste;2;2.089,91
+20/09/2026;Carla Mendes;Impressora Laser;Sudeste;2;1.299,00
+12/09/2026;Felipe Nunes;Teclado Mecânico;Centro-Oeste;1;449,90
+03/09/2026;Elisa Prado;Roteador Wi-Fi 6;Centro-Oeste;2;699,00
+27/09/2026;Felipe Nunes;Webcam Full HD;Norte;1;349,00
+14/09/2026;Carla Mendes;Impressora Laser;Sudeste;1;1.169,10
+07/09/2026;Diego Rocha;Teclado Mecânico;Sul;1;449,90
+05/09/2026;Carla Mendes;Teclado Mecânico;Sudeste;2;449,90
+27/09/2026;Ana Lima;Cadeira Ergonômica;Nordeste;5;1.439,10
+05/09/2026;Diego Rocha;Suporte para Notebook;Sul;1;143,91
+25/09/2026;Bruno Costa;Roteador Wi-Fi 6;Centro-Oeste;1;629,10
+22/09/2026;Diego Rocha;Webcam Full HD;Norte;1;349,00
+26/09/2026;Bruno Costa;Roteador Wi-Fi 6;Norte;1;664,05
+27/09/2026;Carla Mendes;Hub USB-C;Norte;10;219,90
+25/09/2026;Diego Rocha;Hub USB-C;Norte;2;219,90
+27/09/2026;Elisa Prado;Teclado Mecânico;Sul;5;449,90
+21/09/2026;Carla Mendes;Notebook Pro 14;Norte;5;5.604,05
+28/09/2026;Ana Lima;Roteador Wi-Fi 6;Nordeste;1;629,10
+09/09/2026;Elisa Prado;Teclado Mecânico;Sul;3;427,40
+08/09/2026;Carla Mendes;Monitor 27 4K;Sudeste;1;2.089,91
+17/09/2026;Bruno Costa;SSD 1TB;Centro-Oeste;10;499,90
+08/09/2026;Carla Mendes;Webcam Full HD;Sudeste;3;349,00
+11/09/2026;Bruno Costa;Impressora Laser;Sudeste;1;1.299,00
+23/09/2026;Felipe Nunes;Hub USB-C;Centro-Oeste;1;219,90
+03/09/2026;Carla Mendes;Notebook Pro 14;Sul;3;5.899,00
+24/09/2026;Elisa Prado;Cadeira Ergonômica;Centro-Oeste;1;1.439,10
+08/09/2026;Ana Lima;Headset USB;Sudeste;1;289,00
+26/09/2026;Diego Rocha;Impressora Laser;Sudeste;1;1.169,10
+20/09/2026;Ana Lima;Hub USB-C;Norte;2;197,91
+05/09/2026;Diego Rocha;Roteador Wi-Fi 6;Sudeste;2;699,00
+19/09/2026;Bruno Costa;Mouse Sem Fio;Sudeste;2;123,41
+03/09/2026;Elisa Prado;Webcam Full HD;Norte;3;314,10
+18/09/2026;Diego Rocha;Cadeira Ergonômica;Centro-Oeste;1;1.599,00
+12/09/2026;Felipe Nunes;SSD 1TB;Sudeste;1;499,90
+12/09/2026;Felipe Nunes;Monitor 27 4K;Sudeste;3;2.199,90
+25/09/2026;Bruno Costa;Roteador Wi-Fi 6;Sudeste;1;699,00
+27/09/2026;Felipe Nunes;Webcam Full HD;Centro-Oeste;10;349,00
+21/09/2026;Bruno Costa;Hub USB-C;Sudeste;2;219,90
+02/09/2026;Bruno Costa;Hub USB-C;Sudeste;3;219,90
+11/09/2026;Elisa Prado;Notebook Pro 14;Centro-Oeste;10;5.899,00
+16/09/2026;Ana Lima;Cadeira Ergonômica;Sul;1;1.599,00
+28/09/2026;Carla Mendes;Notebook Pro 14;Sudeste;3;5.899,00
+13/09/2026;Diego Rocha;SSD 1TB;Nordeste;10;474,90
+23/09/2026;Carla Mendes;Hub USB-C;Norte;1;208,91
+24/09/2026;Ana Lima;Monitor 27 4K;Centro-Oeste;2;2.089,91
+18/09/2026;Carla Mendes;Teclado Mecânico;Sudeste;1;449,90
+10/09/2026;Diego Rocha;Impressora Laser;Norte;2;1.299,00
+23/09/2026;Carla Mendes;Teclado Mecânico;Centro-Oeste;1;427,40
+20/09/2026;Carla Mendes;Webcam Full HD;Sudeste;1;331,55
+13/09/2026;Elisa Prado;Impressora Laser;Sul;10;1.299,00
+28/09/2026;Felipe Nunes;Teclado Mecânico;Centro-Oeste;1;404,91
+08/09/2026;Carla Mendes;Monitor 27 4K;Centro-Oeste;5;2.199,90
+20/09/2026;Felipe Nunes;Notebook Pro 14;Centro-Oeste;5;5.899,00
+15/09/2026;Elisa Prado;Webcam Full HD;Sul;2;349,00
+11/09/2026;Bruno Costa;SSD 1TB;Sudeste;1;499,90
+16/09/2026;Diego Rocha;Teclado Mecânico;Norte;1;404,91
+23/09/2026;Bruno Costa;Headset USB;Norte;1;274,55
+07/09/2026;Bruno Costa;Hub USB-C;Sudeste;1;219,90
+15/09/2026;Felipe Nunes;Roteador Wi-Fi 6;Nordeste;2;699,00
+03/09/2026;Elisa Prado;Roteador Wi-Fi 6;Nordeste;5;629,10
+23/09/2026;Carla Mendes;Teclado Mecânico;Norte;1;449,90
+26/09/2026;Bruno Costa;Mouse Sem Fio;Centro-Oeste;1;129,90
+19/09/2026;Diego Rocha;Cadeira Ergonômica;Norte;1;1.599,00
+03/09/2026;Diego Rocha;Monitor 27 4K;Centro-Oeste;2;2.199,90
+27/09/2026;Ana Lima;SSD 1TB;Sul;10;449,91
+03/09/2026;Diego Rocha;Impressora Laser;Norte;1;1.234,05
+21/09/2026;Bruno Costa;Cadeira Ergonômica;Sul;1;1.439,10
+27/09/2026;Elisa Prado;Notebook Pro 14;Sul;1;5.899,00
+11/09/2026;Carla Mendes;Teclado Mecânico;Norte;5;449,90
+09/09/2026;Felipe Nunes;Monitor 27 4K;Norte;1;2.199,90
+10/09/2026;Elisa Prado;Impressora Laser;Sudeste;2;1.169,10
+19/09/2026;Bruno Costa;Teclado Mecânico;Sul;2;404,91
+20/09/2026;Elisa Prado;Roteador Wi-Fi 6;Sudeste;3;699,00
+03/09/2026;Felipe Nunes;Notebook Pro 14;Norte;1;5.899,00
+25/09/2026;Diego Rocha;Mouse Sem Fio;Norte;2;116,91
+21/09/2026;Carla Mendes;Hub USB-C;Nordeste;1;197,91
+13/09/2026;Diego Rocha;Impressora Laser;Sudeste;2;1.299,00
+15/09/2026;Diego Rocha;Teclado Mecânico;Centro-Oeste;1;427,40
+05/09/2026;Felipe Nunes;Suporte para Notebook;Nordeste;2;159,90
+13/09/2026;Carla Mendes;Webcam Full HD;Norte;2;349,00
+08/09/2026;Ana Lima;Webcam Full HD;Nordeste;1;331,55
+04/09/2026;Carla Mendes;Teclado Mecânico;Centro-Oeste;3;449,90
+08/09/2026;Carla Mendes;SSD 1TB;Norte;2;499,90
+25/09/2026;Diego Rocha;Mouse Sem Fio;Norte;1;129,90
+16/09/2026;Ana Lima;Headset USB;Centro-Oeste;2;289,00
+07/09/2026;Carla Mendes;Mouse Sem Fio;Sudeste;1;116,91
+20/09/2026;Carla Mendes;Hub USB-C;Norte;1;208,91
+14/09/2026;Carla Mendes;Monitor 27 4K;Nordeste;3;2.199,90
+02/09/2026;Ana Lima;Webcam Full HD;Norte;2;331,55
+18/09/2026;Ana Lima;Webcam Full HD;Centro-Oeste;2;349,00
+09/09/2026;Felipe Nunes;Cadeira Ergonômica;Norte;1;1.439,10
+13/09/2026;Carla Mendes;Monitor 27 4K;Norte;5;2.199,90
+07/09/2026;Elisa Prado;Teclado Mecânico;Centro-Oeste;2;404,91
+02/09/2026;Felipe Nunes;Notebook Pro 14;Nordeste;3;5.899,00
+15/09/2026;Elisa Prado;Cadeira Ergonômica;Norte;1;1.599,00
+11/09/2026;Diego Rocha;Suporte para Notebook;Norte;2;159,90
+19/09/2026;Elisa Prado;Headset USB;Norte;2;289,00
+19/09/2026;Diego Rocha;Roteador Wi-Fi 6;Sudeste;1;699,00
+04/09/2026;Elisa Prado;Impressora Laser;Nordeste;3;1.234,05
+28/09/2026;Elisa Prado;Roteador Wi-Fi 6;Centro-Oeste;1;699,00
+26/09/2026;Elisa Prado;Impressora Laser;Sul;2;1.169,10
+16/09/2026;Elisa Prado;Suporte para Notebook;Norte;3;159,90
+05/09/2026;Ana Lima;SSD 1TB;Norte;5;499,90
+07/09/2026;Diego Rocha;Monitor 27 4K;Nordeste;1;2.199,90
+23/09/2026;Diego Rocha;SSD 1TB;Norte;3;499,90
+28/09/2026;Felipe Nunes;Hub USB-C;Sul;2;219,90
+11/09/2026;Elisa Prado;Cadeira Ergonômica;Centro-Oeste;1;1.519,05
+15/09/2026;Carla Mendes;Teclado Mecânico;Norte;1;404,91

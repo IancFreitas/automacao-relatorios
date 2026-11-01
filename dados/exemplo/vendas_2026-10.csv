@@ -1,0 +1,245 @@
+Data,Vendedor,Produto,Região,Quantidade,Valor Unitário
+2026-10-22,Elisa Prado,Roteador Wi-Fi 6,Centro-Oeste,1,699.00
+2026-10-09,Carla Mendes,Mouse Sem Fio,Sul,5,116.91
+2026-10-25,Felipe Nunes,Headset USB,Sul,2,289.00
+2026-10-11,Carla Mendes,Hub USB-C,Norte,5,208.91
+2026-10-09,Ana Lima,Roteador Wi-Fi 6,Norte,2,699.00
+2026-10-13,Bruno Costa,SSD 1TB,Nordeste,1,499.90
+2026-10-03,Diego Rocha,Roteador Wi-Fi 6,Nordeste,2,699.00
+2026-10-07,Carla Mendes,Mouse Sem Fio,Norte,2,116.91
+2026-10-04,Felipe Nunes,Teclado Mecânico,Norte,1,404.91
+2026-10-22,Bruno Costa,Notebook Pro 14,Sul,1,5309.10
+2026-10-11,Ana Lima,SSD 1TB,Sul,1,474.90
+2026-10-06,Felipe Nunes,Cadeira Ergonômica,Centro-Oeste,1,1519.05
+2026-10-25,Carla Mendes,Mouse Sem Fio,Nordeste,2,129.90
+2026-10-21,Bruno Costa,Monitor 27 4K,Norte,2,1979.91
+2026-10-06,Bruno Costa,Notebook Pro 14,Sudeste,10,5604.05
+2026-10-26,Bruno Costa,SSD 1TB,Nordeste,5,474.90
+2026-10-10,Elisa Prado,Notebook Pro 14,Sudeste,5,5309.10
+2026-10-10,Felipe Nunes,Webcam Full HD,Norte,2,331.55
+2026-10-28,Diego Rocha,Teclado Mecânico,Nordeste,1,404.91
+2026-10-11,Felipe Nunes,Monitor 27 4K,Centro-Oeste,2,2199.90
+2026-10-06,Felipe Nunes,Roteador Wi-Fi 6,Nordeste,3,699.00
+2026-10-22,Bruno Costa,Suporte para Notebook,Norte,3,159.90
+2026-10-27,Elisa Prado,SSD 1TB,Nordeste,1,474.90
+2026-10-04,Bruno Costa,Impressora Laser,Centro-Oeste,1,1299.00
+2026-10-01,Diego Rocha,Mouse Sem Fio,Sul,1,129.90
+2026-10-11,Elisa Prado,Headset USB,Norte,1,289.00
+2026-10-12,Ana Lima,Impressora Laser,Sudeste,1,1299.00
+2026-10-13,Felipe Nunes,Teclado Mecânico,Nordeste,2,404.91
+2026-10-10,Elisa Prado,Impressora Laser,Sul,1,1299.00
+2026-10-16,Diego Rocha,Teclado Mecânico,Norte,1,449.90
+2026-10-18,Elisa Prado,Roteador Wi-Fi 6,Sul,3,664.05
+2026-10-25,Ana Lima,Impressora Laser,Norte,1,1169.10
+2026-10-12,Elisa Prado,Roteador Wi-Fi 6,Sudeste,1,699.00
+2026-10-17,Elisa Prado,Cadeira Ergonômica,Norte,1,1599.00
+2026-10-28,Diego Rocha,Webcam Full HD,Sudeste,2,314.10
+2026-10-19,Ana Lima,Roteador Wi-Fi 6,Norte,1,664.05
+2026-10-15,Elisa Prado,Notebook Pro 14,Centro-Oeste,1,5899.00
+2026-10-18,Felipe Nunes,Notebook Pro 14,Nordeste,2,5604.05
+2026-10-09,Felipe Nunes,SSD 1TB,Sul,2,499.90
+2026-10-14,Felipe Nunes,Notebook Pro 14,Sudeste,2,5899.00
+2026-10-03,Ana Lima,Notebook Pro 14,Nordeste,1,5604.05
+2026-10-25,Carla Mendes,Teclado Mecânico,Centro-Oeste,1,427.40
+2026-10-13,Felipe Nunes,SSD 1TB,Norte,1,499.90
+2026-10-04,Elisa Prado,Webcam Full HD,Centro-Oeste,2,349.00
+2026-10-08,Ana Lima,Roteador Wi-Fi 6,Nordeste,1,699.00
+2026-10-18,Elisa Prado,Roteador Wi-Fi 6,Centro-Oeste,3,664.05
+2026-10-15,Bruno Costa,Mouse Sem Fio,Nordeste,1,129.90
+2026-10-25,Ana Lima,Roteador Wi-Fi 6,Centro-Oeste,2,699.00
+2026-10-08,Ana Lima,Notebook Pro 14,Sudeste,2,5899.00
+2026-10-20,Bruno Costa,Hub USB-C,Sudeste,1,219.90
+2026-10-18,Ana Lima,Mouse Sem Fio,Sul,2,129.90
+2026-10-08,Carla Mendes,Headset USB,Norte,2,260.10
+2026-10-27,Bruno Costa,Impressora Laser,Nordeste,5,1299.00
+2026-10-17,Diego Rocha,Impressora Laser,Nordeste,1,1299.00
+2026-10-19,Felipe Nunes,Cadeira Ergonômica,Centro-Oeste,2,1599.00
+2026-10-12,Elisa Prado,Notebook Pro 14,Nordeste,2,5604.05
+2026-10-05,Diego Rocha,SSD 1TB,Sul,3,499.90
+2026-10-08,Carla Mendes,Hub USB-C,Sul,3,219.90
+2026-10-18,Diego Rocha,Notebook Pro 14,Norte,2,5604.05
+2026-10-08,Bruno Costa,SSD 1TB,Nordeste,2,499.90
+2026-10-28,Ana Lima,Hub USB-C,Norte,2,219.90
+2026-10-02,Diego Rocha,Mouse Sem Fio,Norte,2,129.90
+2026-10-07,Felipe Nunes,Monitor 27 4K,Norte,1,1979.91
+2026-10-28,Carla Mendes,Mouse Sem Fio,Sudeste,1,129.90
+2026-10-24,Felipe Nunes,Mouse Sem Fio,Centro-Oeste,5,129.90
+2026-10-20,Diego Rocha,Roteador Wi-Fi 6,Sul,2,699.00
+2026-10-13,Elisa Prado,Headset USB,Nordeste,1,274.55
+2026-10-17,Diego Rocha,Webcam Full HD,Sudeste,3,331.55
+2026-10-16,Bruno Costa,Roteador Wi-Fi 6,Nordeste,1,699.00
+2026-10-19,Felipe Nunes,Notebook Pro 14,Sul,1,5899.00
+2026-10-19,Felipe Nunes,Cadeira Ergonômica,Centro-Oeste,1,1439.10
+2026-10-11,Diego Rocha,Mouse Sem Fio,Norte,3,129.90
+2026-10-18,Carla Mendes,Hub USB-C,Centro-Oeste,10,219.90
+2026-10-24,Diego Rocha,Impressora Laser,Sul,2,1234.05
+2026-10-06,Felipe Nunes,Webcam Full HD,Norte,1,349.00
+2026-10-21,Elisa Prado,Cadeira Ergonômica,Sudeste,3,1599.00
+2026-10-27,Ana Lima,Monitor 27 4K,Centro-Oeste,1,2199.90
+2026-10-08,Felipe Nunes,Impressora Laser,Sul,1,1299.00
+2026-10-15,Ana Lima,Cadeira Ergonômica,Norte,2,1599.00
+2026-10-16,Ana Lima,Suporte para Notebook,Sudeste,2,151.91
+2026-10-01,Elisa Prado,SSD 1TB,Nordeste,2,499.90
+2026-10-01,Felipe Nunes,Headset USB,Centro-Oeste,3,260.10
+2026-10-04,Elisa Prado,Teclado Mecânico,Sul,1,449.90
+2026-10-17,Carla Mendes,Suporte para Notebook,Nordeste,3,159.90
+2026-10-12,Diego Rocha,Monitor 27 4K,Norte,1,2089.91
+2026-10-08,Felipe Nunes,Roteador Wi-Fi 6,Sudeste,2,699.00
+2026-10-25,Ana Lima,Impressora Laser,Centro-Oeste,1,1299.00
+2026-10-16,Felipe Nunes,Cadeira Ergonômica,Sudeste,2,1599.00
+2026-10-16,Felipe Nunes,Monitor 27 4K,Nordeste,2,2089.91
+2026-10-17,Bruno Costa,Monitor 27 4K,Sul,5,2199.90
+2026-10-19,Carla Mendes,Roteador Wi-Fi 6,Sudeste,5,664.05
+2026-10-09,Elisa Prado,Impressora Laser,Sudeste,1,1169.10
+2026-10-01,Elisa Prado,Webcam Full HD,Sul,3,349.00
+2026-10-27,Ana Lima,Roteador Wi-Fi 6,Nordeste,1,664.05
+2026-10-19,Felipe Nunes,Mouse Sem Fio,Norte,1,123.41
+2026-10-05,Elisa Prado,Roteador Wi-Fi 6,Nordeste,1,699.00
+2026-10-08,Carla Mendes,SSD 1TB,Norte,3,499.90
+2026-10-13,Ana Lima,Suporte para Notebook,Nordeste,3,159.90
+2026-10-16,Carla Mendes,Hub USB-C,Norte,5,219.90
+2026-10-06,Felipe Nunes,SSD 1TB,Centro-Oeste,1,449.91
+2026-10-10,Felipe Nunes,Suporte para Notebook,Sudeste,1,159.90
+2026-10-13,Felipe Nunes,Teclado Mecânico,Centro-Oeste,1,449.90
+2026-10-03,Carla Mendes,Monitor 27 4K,Centro-Oeste,1,2199.90
+2026-10-04,Ana Lima,Headset USB,Sul,1,289.00
+2026-10-18,Diego Rocha,Cadeira Ergonômica,Sudeste,1,1439.10
+2026-10-18,Elisa Prado,Webcam Full HD,Norte,3,349.00
+2026-10-01,Diego Rocha,SSD 1TB,Centro-Oeste,3,499.90
+2026-10-18,Elisa Prado,Roteador Wi-Fi 6,Norte,1,699.00
+2026-10-06,Carla Mendes,SSD 1TB,Nordeste,1,499.90
+2026-10-03,Diego Rocha,Teclado Mecânico,Nordeste,1,449.90
+2026-10-26,Carla Mendes,Hub USB-C,Nordeste,5,219.90
+2026-10-21,Elisa Prado,Roteador Wi-Fi 6,Norte,1,664.05
+2026-10-05,Ana Lima,Monitor 27 4K,Centro-Oeste,1,2199.90
+2026-10-13,Diego Rocha,Suporte para Notebook,Nordeste,1,159.90
+2026-10-20,Carla Mendes,Impressora Laser,Nordeste,2,1299.00
+2026-10-07,Carla Mendes,Roteador Wi-Fi 6,Sul,10,664.05
+2026-10-10,Elisa Prado,Webcam Full HD,Sul,1,331.55
+2026-10-27,Carla Mendes,Headset USB,Sudeste,5,274.55
+2026-10-19,Bruno Costa,Mouse Sem Fio,Norte,1,116.91
+2026-10-15,Diego Rocha,Roteador Wi-Fi 6,Nordeste,3,699.00
+2026-10-27,Felipe Nunes,Monitor 27 4K,Centro-Oeste,1,2089.91
+2026-10-08,Felipe Nunes,Headset USB,Sul,2,289.00
+2026-10-03,Elisa Prado,SSD 1TB,Centro-Oeste,2,474.90
+2026-10-17,Elisa Prado,Cadeira Ergonômica,Sudeste,3,1519.05
+2026-10-23,Elisa Prado,Webcam Full HD,Sudeste,1,314.10
+2026-10-22,Bruno Costa,Mouse Sem Fio,Norte,1,129.90
+2026-10-22,Carla Mendes,Impressora Laser,Centro-Oeste,1,1234.05
+2026-10-09,Elisa Prado,Monitor 27 4K,Norte,2,2199.90
+2026-10-19,Diego Rocha,Roteador Wi-Fi 6,Nordeste,1,699.00
+2026-10-19,Bruno Costa,Impressora Laser,Nordeste,10,1169.10
+2026-10-04,Diego Rocha,Hub USB-C,Sudeste,1,219.90
+2026-10-05,Carla Mendes,Roteador Wi-Fi 6,Nordeste,1,699.00
+2026-10-17,Carla Mendes,Mouse Sem Fio,Centro-Oeste,1,123.41
+2026-10-23,Carla Mendes,Roteador Wi-Fi 6,Sudeste,1,664.05
+2026-10-04,Carla Mendes,Roteador Wi-Fi 6,Sudeste,2,699.00
+2026-10-24,Elisa Prado,Teclado Mecânico,Sul,2,449.90
+2026-10-18,Diego Rocha,Webcam Full HD,Sul,3,331.55
+2026-10-06,Felipe Nunes,Impressora Laser,Centro-Oeste,1,1299.00
+2026-10-20,Diego Rocha,Roteador Wi-Fi 6,Norte,1,699.00
+2026-10-23,Bruno Costa,Notebook Pro 14,Nordeste,3,5899.00
+2026-10-19,Elisa Prado,Monitor 27 4K,Sul,1,2199.90
+2026-10-15,Carla Mendes,Mouse Sem Fio,Centro-Oeste,2,129.90
+2026-10-11,Diego Rocha,Impressora Laser,Norte,1,1169.10
+2026-10-12,Diego Rocha,Monitor 27 4K,Norte,1,2199.90
+2026-10-23,Elisa Prado,Impressora Laser,Norte,1,1299.00
+2026-10-11,Bruno Costa,Teclado Mecânico,Nordeste,1,449.90
+2026-10-23,Elisa Prado,Webcam Full HD,Centro-Oeste,1,349.00
+2026-10-19,Diego Rocha,Teclado Mecânico,Sul,1,427.40
+2026-10-23,Elisa Prado,Cadeira Ergonômica,Sul,1,1599.00
+2026-10-06,Diego Rocha,Teclado Mecânico,Norte,1,449.90
+2026-10-01,Bruno Costa,Webcam Full HD,Sul,3,331.55
+2026-10-17,Diego Rocha,Cadeira Ergonômica,Centro-Oeste,1,1519.05
+2026-10-16,Ana Lima,Hub USB-C,Norte,1,219.90
+2026-10-10,Carla Mendes,Mouse Sem Fio,Sul,2,129.90
+2026-10-25,Elisa Prado,Teclado Mecânico,Centro-Oeste,2,427.40
+2026-10-19,Carla Mendes,Monitor 27 4K,Norte,3,2199.90
+2026-10-18,Felipe Nunes,Webcam Full HD,Centro-Oeste,2,349.00
+2026-10-04,Carla Mendes,SSD 1TB,Sudeste,1,499.90
+2026-10-28,Diego Rocha,Webcam Full HD,Sudeste,3,349.00
+2026-10-07,Felipe Nunes,Mouse Sem Fio,Nordeste,3,116.91
+2026-10-21,Bruno Costa,Suporte para Notebook,Norte,1,151.91
+2026-10-27,Ana Lima,Mouse Sem Fio,Norte,1,129.90
+2026-10-20,Bruno Costa,Headset USB,Nordeste,10,260.10
+2026-10-10,Carla Mendes,Headset USB,Norte,10,260.10
+2026-10-27,Bruno Costa,Impressora Laser,Centro-Oeste,5,1299.00
+2026-10-28,Felipe Nunes,Headset USB,Sul,1,289.00
+2026-10-11,Felipe Nunes,Roteador Wi-Fi 6,Centro-Oeste,1,699.00
+2026-10-21,Felipe Nunes,Suporte para Notebook,Centro-Oeste,1,159.90
+2026-10-21,Diego Rocha,Monitor 27 4K,Norte,2,2199.90
+2026-10-12,Diego Rocha,Roteador Wi-Fi 6,Nordeste,2,664.05
+2026-10-03,Felipe Nunes,Roteador Wi-Fi 6,Nordeste,3,664.05
+2026-10-13,Diego Rocha,Cadeira Ergonômica,Sul,1,1599.00
+2026-10-27,Carla Mendes,Webcam Full HD,Norte,2,349.00
+2026-10-28,Carla Mendes,Suporte para Notebook,Sudeste,1,151.91
+2026-10-26,Ana Lima,Impressora Laser,Sudeste,5,1234.05
+2026-10-15,Ana Lima,Teclado Mecânico,Centro-Oeste,1,427.40
+2026-10-05,Bruno Costa,Roteador Wi-Fi 6,Nordeste,1,699.00
+2026-10-09,Carla Mendes,Webcam Full HD,Sul,1,349.00
+2026-10-10,Diego Rocha,Impressora Laser,Sudeste,2,1299.00
+2026-10-07,Ana Lima,Notebook Pro 14,Sul,2,5604.05
+2026-10-22,Ana Lima,Cadeira Ergonômica,Sudeste,2,1519.05
+2026-10-28,Felipe Nunes,Monitor 27 4K,Sul,1,2089.91
+2026-10-13,Felipe Nunes,Mouse Sem Fio,Sudeste,1,129.90
+2026-10-10,Diego Rocha,Webcam Full HD,Sul,2,349.00
+2026-10-05,Elisa Prado,Impressora Laser,Norte,1,1299.00
+2026-10-06,Carla Mendes,Impressora Laser,Sul,2,1234.05
+2026-10-14,Felipe Nunes,Teclado Mecânico,Centro-Oeste,3,404.91
+2026-10-04,Ana Lima,Monitor 27 4K,Norte,2,2199.90
+2026-10-14,Bruno Costa,Webcam Full HD,Sul,1,349.00
+2026-10-08,Elisa Prado,Monitor 27 4K,Norte,2,1979.91
+2026-10-25,Felipe Nunes,Headset USB,Nordeste,1,289.00
+2026-10-17,Felipe Nunes,Suporte para Notebook,Centro-Oeste,1,159.90
+2026-10-26,Diego Rocha,Notebook Pro 14,Centro-Oeste,1,5899.00
+2026-10-21,Ana Lima,Hub USB-C,Norte,5,197.91
+2026-10-12,Bruno Costa,Notebook Pro 14,Centro-Oeste,3,5899.00
+2026-10-14,Elisa Prado,Suporte para Notebook,Sul,3,159.90
+2026-10-01,Ana Lima,Monitor 27 4K,Sudeste,1,1979.91
+2026-10-02,Elisa Prado,Notebook Pro 14,Nordeste,2,5604.05
+2026-10-25,Diego Rocha,Cadeira Ergonômica,Centro-Oeste,1,1519.05
+2026-10-18,Bruno Costa,Cadeira Ergonômica,Nordeste,1,1439.10
+2026-10-17,Bruno Costa,Monitor 27 4K,Norte,1,2199.90
+2026-10-21,Carla Mendes,Suporte para Notebook,Centro-Oeste,2,159.90
+2026-10-02,Ana Lima,Mouse Sem Fio,Centro-Oeste,1,129.90
+2026-10-20,Carla Mendes,Suporte para Notebook,Sul,1,159.90
+2026-10-05,Bruno Costa,Roteador Wi-Fi 6,Centro-Oeste,10,699.00
+2026-10-17,Bruno Costa,Cadeira Ergonômica,Nordeste,1,1599.00
+2026-10-24,Ana Lima,Headset USB,Nordeste,3,289.00
+2026-10-17,Carla Mendes,Headset USB,Norte,2,289.00
+2026-10-15,Carla Mendes,Hub USB-C,Sudeste,1,197.91
+2026-10-06,Bruno Costa,Suporte para Notebook,Nordeste,3,159.90
+2026-10-22,Bruno Costa,Suporte para Notebook,Norte,1,159.90
+2026-10-08,Diego Rocha,Notebook Pro 14,Nordeste,1,5899.00
+2026-10-06,Elisa Prado,Teclado Mecânico,Centro-Oeste,1,449.90
+2026-10-14,Carla Mendes,Mouse Sem Fio,Sudeste,2,129.90
+2026-10-17,Bruno Costa,Monitor 27 4K,Sul,3,2199.90
+2026-10-13,Diego Rocha,Notebook Pro 14,Nordeste,3,5899.00
+2026-10-11,Elisa Prado,Headset USB,Centro-Oeste,1,289.00
+2026-10-10,Carla Mendes,Mouse Sem Fio,Norte,1,116.91
+2026-10-19,Bruno Costa,Webcam Full HD,Norte,3,331.55
+2026-10-05,Diego Rocha,Mouse Sem Fio,Sudeste,1,129.90
+2026-10-21,Carla Mendes,Webcam Full HD,Sudeste,3,349.00
+2026-10-28,Ana Lima,SSD 1TB,Sul,2,499.90
+2026-10-14,Ana Lima,Mouse Sem Fio,Sul,2,123.41
+2026-10-02,Elisa Prado,Monitor 27 4K,Centro-Oeste,2,2199.90
+2026-10-15,Elisa Prado,Webcam Full HD,Sudeste,2,349.00
+2026-10-27,Ana Lima,Impressora Laser,Norte,2,1234.05
+2026-10-22,Bruno Costa,SSD 1TB,Nordeste,1,499.90
+2026-10-26,Felipe Nunes,Webcam Full HD,Nordeste,1,331.55
+2026-10-08,Bruno Costa,Headset USB,Sul,3,289.00
+2026-10-04,Ana Lima,Suporte para Notebook,Sul,1,159.90
+2026-10-14,Elisa Prado,Webcam Full HD,Nordeste,10,349.00
+2026-10-15,Diego Rocha,Mouse Sem Fio,Nordeste,3,129.90
+2026-10-06,Felipe Nunes,Monitor 27 4K,Norte,1,2199.90
+2026-10-05,Felipe Nunes,Webcam Full HD,Sul,10,349.00
+2026-10-17,Felipe Nunes,SSD 1TB,Nordeste,1,499.90
+2026-10-01,Diego Rocha,Teclado Mecânico,Norte,2,427.40
+2026-10-04,Ana Lima,Mouse Sem Fio,Sul,1,123.41
+2026-10-27,Bruno Costa,Notebook Pro 14,Sul,3,5899.00
+2026-10-22,Elisa Prado,Webcam Full HD,Norte,1,349.00
+2026-10-01,Bruno Costa,Monitor 27 4K,Centro-Oeste,3,2199.90
+2026-10-22,Elisa Prado,Roteador Wi-Fi 6,Centro-Oeste,1,699.00
+2026-10-12,,Mouse Sem Fio,Sul,1,129.90
+2026-10-13,Ana Lima,SSD 1TB,Sudeste,-2,499.90
+data-invalida,Bruno Costa,Hub USB-C,Norte,1,219.90
